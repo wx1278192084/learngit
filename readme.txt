@@ -3,4 +3,3 @@ Git is free software distributed under the GPL.
 date:2017-09-26
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-
